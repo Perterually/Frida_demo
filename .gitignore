@@ -1,1 +1,3 @@
 __handlers__/
+*.dex
+*.jar
